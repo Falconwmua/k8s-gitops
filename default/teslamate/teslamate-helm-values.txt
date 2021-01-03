@@ -1,4 +1,0 @@
-mqtt:
-  password: $RABBITMQ_MQTT_USER_PASSWORD
-postgresql:
-  postgresqlPassword: $TESLAMATE_DB_PASSWORD
